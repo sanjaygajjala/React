@@ -1,0 +1,41 @@
+/* .dataTables_wrapper.dt-bootstrap4 {
+    padding: 20px;
+  } */
+
+
+  .card {
+
+    font-weight: 900;
+    padding: 15px;
+}
+
+.btn.peach-gradient {
+
+    margin-inline-start: 82%;
+}
+
+/* .card-header:first-child {
+    text-align: center;
+} */
+
+button.btn.aqua-gradient.Ripple-parent {
+    margin-left: 76%;
+}
+
+
+body, html {
+    height: 100%;
+  }
+  .bg {
+    background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  form.needs-validation.col-md-6.offset-2 {
+
+    margin-top: 8%;
+
+}
